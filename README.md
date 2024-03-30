@@ -3,8 +3,9 @@
 
 <h1>This exploration activity is focused on the NumPy library for Python.</h1>
 
-<h2>How do you start the program?</h2>
-    python EA.py
+<h4>To start the program, run this ---> python EA2.py</h4>
+
+
 
 This program uses premade lists of the filmography of three different directors for the data analysis.
 
