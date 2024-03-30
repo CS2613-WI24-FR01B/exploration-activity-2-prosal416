@@ -11,7 +11,7 @@ This program uses premade lists of the filmography of three different directors 
 
 To begin, it prompts the user to select one of the three filmographies to analyze.
 
-![alt text](image.png)
+![alt text](image.PNG)
 
 After making a selection, it will shows statistics for the director's films, including: total movies, genres, average ratings by genre, correlation coefficient between the duration and rating, and finally, their longest and shortest film.
 
